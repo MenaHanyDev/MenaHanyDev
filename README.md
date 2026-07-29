@@ -46,7 +46,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/MenaHanyDev/MenaHanyDev/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
 ---
 
 ## 📌 Featured Projects
