@@ -2,7 +2,7 @@
 <h3 align="center">AI Student | Python Developer | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/mena-hany-276b3741b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mena.hany.1234ooo@gmail.com">
@@ -14,13 +14,14 @@
 
 ## 🚀 About Me
 - 🎓 AI Student at Sphinx University
-- 💻 Passionate about Python & AI
-- 🌱 Currently learning Machine Learning & Data Analysis
-- 🎯 Goal: Become an AI Engineer and build real-world projects
+- 💻 Passionate about Python & Artificial Intelligence
+- 🌱 Currently learning Python, SQL, Git, GitHub, Machine Learning, and Data Analysis
+- 🎯 Goal: Become an AI Engineer and build impactful real-world projects
 
 ---
 
 ## 🛠️ Tech Stack
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -32,26 +33,26 @@
 ---
 
 ## 📌 Featured Projects
-<!-- Replace these with your actual repos and one-line descriptions -->
-- 🔹 **[Project Name](https://github.com/MenaHanyDev/repo-link)** — short description of what it does and the tools used.
-- 🔹 **[Project Name](https://github.com/MenaHanyDev/repo-link)** — short description of what it does and the tools used.
-- 🔹 **[Project Name](https://github.com/MenaHanyDev/repo-link)** — short description of what it does and the tools used.
+
+🚧 Projects will be added soon...
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=MenaHanyDev&show_icons=true&theme=tokyonight" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MenaHanyDev&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MenaHanyDev&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=MenaHanyDev&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🎯 2026 Goals
+
 - [x] Master Git & GitHub
 - [ ] Build 20+ Python Projects
 - [ ] Learn Machine Learning
@@ -62,8 +63,6 @@
 ---
 
 ## 📫 Contact
-📧 **Email:** mena.hany.1234ooo@gmail.com
-🔗 **LinkedIn:** add your link here
 
----
-⭐ Thanks for visiting my profile!
+- 📧 Email: **mena.hany.1234ooo@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/mena-hany-276b3741b/**
