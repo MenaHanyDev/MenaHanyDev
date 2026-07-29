@@ -16,7 +16,7 @@
   <a href="mailto:mena.hany.1234ooo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="#">
+  <a href="https://www.kaggle.com/menahanyfer">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </p>
@@ -47,12 +47,9 @@
   <img src="https://raw.githubusercontent.com/MenaHanyDev/MenaHanyDev/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-> ⚠️ محتاج تعمل GitHub Action مرة واحدة عشان الملف ده يتولّد أوتوماتيك (قولي لو عايز الخطوات).
-
 ---
 
 ## 📌 Featured Projects
-<!-- غيّر الروابط دي بمشاريعك الحقيقية -->
 - 🔹 **[Project Name](https://github.com/MenaHanyDev/repo-link)** — short description of what it does and the tools used.
 - 🔹 **[Project Name](https://github.com/MenaHanyDev/repo-link)** — short description of what it does and the tools used.
 - 🔹 **[Project Name](https://github.com/MenaHanyDev/repo-link)** — short description of what it does and the tools used.
