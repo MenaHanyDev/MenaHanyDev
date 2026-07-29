@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Mina Hany 👋
 
-<!--
-**MenaHanyDev/MenaHanyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI Student at Sphinx University
 
-Here are some ideas to get you started:
+💻 Python Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Machine Learning Enthusiast
+
+🌱 Currently Learning:
+- Python
+- SQL
+- Git & GitHub
+- Machine Learning
+- Data Analysis
+
+🚀 My Goals for 2026
+- Build 20+ Python Projects
+- Learn AI & Deep Learning
+- Contribute to Open Source
+- Get my first AI Internship
+
+## 🛠️ Skills
+- Python
+- SQL
+- Git
+- GitHub
+- Machine Learning
+- Networking
+
+## 📫 Contact Me
+- Email: mena.hany.1234ooo@gmail.com
