@@ -39,6 +39,12 @@
 ## 📫 Contact
 - 📧 Email: **mena.hany.1234ooo@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/mena-hany-276b3741b/
+---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MenaHanyDev&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MenaHanyDev&layout=compact&theme=radical&hide_border=true" />
+</p>
 --
 ⭐ Thanks for visiting my profile!
