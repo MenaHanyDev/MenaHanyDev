@@ -1,12 +1,23 @@
 <h1 align="center">Hi 👋, I'm Mina Hany</h1>
-<h3 align="center">AI Student | Python Developer | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mena-hany-276b3741b/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+Student+%40+Sphinx+University;Python+Developer;Machine+Learning+Enthusiast;Building+Real-World+AI+Projects" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MenaHanyDev&label=Profile%20Views&color=2E9EF7&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/MenaHanyDev?label=Followers&style=for-the-badge&color=2E9EF7" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mena-hany-276b3741b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mena.hany.1234ooo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </p>
 
@@ -14,8 +25,8 @@
 
 ## 🚀 About Me
 - 🎓 AI Student at Sphinx University
-- 💻 Passionate about Python & Artificial Intelligence
-- 🌱 Currently learning Python, SQL, Git, GitHub, Machine Learning, and Data Analysis
+- 💻 Passionate about Python & AI
+- 🌱 Currently learning Machine Learning & Data Analysis
 - 🎯 Goal: Become an AI Engineer and build real-world projects
 
 ---
@@ -31,14 +42,21 @@
 
 ---
 
-## 📌 Featured Projects
-🚧 Projects coming soon...
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MenaHanyDev/MenaHanyDev/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+> ⚠️ محتاج تعمل GitHub Action مرة واحدة عشان الملف ده يتولّد أوتوماتيك (قولي لو عايز الخطوات).
 
 ---
 
-## 📫 Contact
-- 📧 Email: **mena.hany.1234ooo@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/mena-hany-276b3741b/
+## 📌 Featured Projects
+<!-- غيّر الروابط دي بمشاريعك الحقيقية -->
+- 🔹 **[Project Name](https://github.com/MenaHanyDev/repo-link)** — short description of what it does and the tools used.
+- 🔹 **[Project Name](https://github.com/MenaHanyDev/repo-link)** — short description of what it does and the tools used.
+- 🔹 **[Project Name](https://github.com/MenaHanyDev/repo-link)** — short description of what it does and the tools used.
+
 ---
 
 ## 📊 GitHub Stats
@@ -46,5 +64,34 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MenaHanyDev&show_icons=true&theme=radical&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MenaHanyDev&layout=compact&theme=radical&hide_border=true" />
 </p>
---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MenaHanyDev&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MenaHanyDev&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MenaHanyDev&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🎯 2026 Goals
+- [x] Master Git & GitHub
+- [ ] Build 20+ Python Projects
+- [ ] Learn Machine Learning
+- [ ] Learn Deep Learning
+- [ ] Master SQL
+- [ ] Get my first AI Internship
+
+---
+
+## 📫 Contact
+📧 **Email:** mena.hany.1234ooo@gmail.com
+🔗 **LinkedIn:** [linkedin.com/in/mena-hany-276b3741b](https://www.linkedin.com/in/mena-hany-276b3741b)
+
+---
 ⭐ Thanks for visiting my profile!
