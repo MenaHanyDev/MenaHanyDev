@@ -60,21 +60,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MenaHanyDev&show_icons=true&theme=radical&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MenaHanyDev&layout=compact&theme=radical&hide_border=true" />
 </p>
-
 <p align="center">
- <img src="https://streak-stats.demolab.com/?user=MenaHanyDev&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=MenaHanyDev&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MenaHanyDev&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MenaHanyDev&theme=tokyo-night&hide_border=true" />
 </p>
-
----
-
+__
 ## 🎯 2026 Goals
 - [x] Master Git & GitHub
 - [ ] Build 20+ Python Projects
