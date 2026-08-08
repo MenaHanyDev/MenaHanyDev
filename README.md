@@ -24,11 +24,11 @@
 ---
 
 ## 🚀 About Me
-- 🎓 AI Student at Sphinx University
-- 💻 Passionate about Python & AI
-- 🌱 Currently learning Machine Learning & Data Analysis
-- 🎯 Goal: Become an AI Engineer and build real-world projects
 
+- 🎓 AI Student at Sphinx University
+- 🐍 Python Developer interested in AI & Machine Learning
+- 📊 Experienced with Data Analysis, Data Mining & NLP projects
+- 🛠️ Building practical projects and real-world solutions
 ---
 
 ## 🛠️ Tech Stack
