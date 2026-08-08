@@ -67,12 +67,13 @@
 </p>
 __
 ## 🎯 2026 Goals
+
 - [x] Master Git & GitHub
-- [ ] Build 20+ Python Projects
-- [ ] Learn Machine Learning
-- [ ] Learn Deep Learning
-- [ ] Master SQL
-- [ ] Get my first AI Internship
+- [ ] Build and publish real-world AI & Python projects
+- [ ] Strengthen Machine Learning & NLP skills
+- [ ] Improve Data Analysis & SQL skills
+- [ ] Build a strong AI portfolio
+- [ ] Get my first AI internship or freelance client
 
 ---
 
