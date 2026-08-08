@@ -48,10 +48,6 @@
 </p>
 ---
 
-## 📌 Featured Projects
-- 🔹 **[Project Name](https://github.com/MenaHanyDev/repo-link)** — short description of what it does and the tools used.
-- 🔹 **[Project Name](https://github.com/MenaHanyDev/repo-link)** — short description of what it does and the tools used.
-- 🔹 **[Project Name](https://github.com/MenaHanyDev/repo-link)** — short description of what it does and the tools used.
 
 ---
 
